@@ -1,1 +1,1 @@
-maybe moving to [sr.ht](https://sr.ht/~micycle8778/)
+maybe moving to my [personal git server](https://git.micycle.dev/explore/repos)
